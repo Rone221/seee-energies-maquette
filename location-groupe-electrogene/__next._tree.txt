@@ -1,6 +1,6 @@
 :HL["/seee-energies-maquette/_next/static/chunks/3w0tivu9kudm_.css","style"]
-:HL["/seee-energies-maquette/_next/static/chunks/1t124wg7j_b4c.css","style"]
+:HL["/seee-energies-maquette/_next/static/chunks/13eevtcepibwg.css","style"]
 :HL["/seee-energies-maquette/_next/static/media/21ca8f3f56c22ca2-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/seee-energies-maquette/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/seee-energies-maquette/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":4128,"slots":{"children":{"name":"metier","param":{"type":"d","key":"location-groupe-electrogene","siblings":["admin","contact","demande-de-devis","entreprise","groupes-electrogenes-cummins","realisations"]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"ErC1g9P1sr7K-QY6kcZNm"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":4128,"slots":{"children":{"name":"metier","param":{"type":"d","key":"location-groupe-electrogene","siblings":["actualites","admin","contact","demande-de-devis","entreprise","groupes-electrogenes-cummins","realisations"]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"Sm4sbDsk3iVrCX9SEIrBk"}
